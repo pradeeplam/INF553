@@ -1,0 +1,36 @@
+{
+	"algorithm":"K-Means",
+	"WSSE":152719.15772841044,
+	"clusters":[
+	{
+		"id":1,
+		"size":6,
+		"error":3230.1666666666565,
+		"terms":["back","car","us","also","day","location","went","would","time","said"]
+	},
+	{
+		"id":2,
+		"size":188,
+		"error":48334.329787230985,
+		"terms":["like","good","place","one","food","time","get","back","us","would"]
+	},
+	{
+		"id":3,
+		"size":40,
+		"error":21580.975000000926,
+		"terms":["like","place","food","one","would","get","menu","us","little","restaurant"]
+	},
+	{
+		"id":4,
+		"size":1,
+		"error":0.0,
+		"terms":["buffet","dont","good","bone","chicken","curry","didnt","nice","youre","dishes"]
+	},
+	{
+		"id":5,
+		"size":765,
+		"error":79573.68627451183,
+		"terms":["place","good","great","food","like","get","service","one","time","would"]
+	}
+	]
+}

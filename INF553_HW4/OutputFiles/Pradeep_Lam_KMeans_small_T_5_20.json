@@ -1,0 +1,36 @@
+{
+	"algorithm":"K-Means",
+	"WSSE":6261462.573823577,
+	"clusters":[
+	{
+		"id":1,
+		"size":3,
+		"error":6554.280464264345,
+		"terms":["dog","vet","dr","hoppe","kisses","groomed","taxi","service","bc","knowledgeable"]
+	},
+	{
+		"id":2,
+		"size":86,
+		"error":1793312.402263777,
+		"terms":["like","would","food","one","time","place","us","menu","little","back"]
+	},
+	{
+		"id":3,
+		"size":3,
+		"error":41610.509335237904,
+		"terms":["burger","bamburger","menu","items","3030","cheese","rings","toppings","junction","burgers"]
+	},
+	{
+		"id":4,
+		"size":1,
+		"error":0.0,
+		"terms":["buffet","bone","curry","nicely","dont","youre","takeout","chicken","vegetarian","wise"]
+	},
+	{
+		"id":5,
+		"size":907,
+		"error":4419985.381760292,
+		"terms":["good","place","like","food","great","get","one","time","go","service"]
+	}
+	]
+}
